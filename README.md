@@ -2,6 +2,7 @@
 ## DESIGN THINKING ALWAYS !!!!
 ---
 ## I try to become a Front End Developer and I'm learning about HTML, CSS, JS , Shell Script and LINUX.
+## Nowadays I'm an IT infrastructure project analyst at Vivo Telefonica do Brasil,  
 ### I would like help about the programming languages mentioned above, Could you help me?
 ### I'm leanrning about _*MarkDown*_ with On line course **Curso em Video** de Git e GitHub by *@gustavoganabara* 
 ---
